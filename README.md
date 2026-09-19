@@ -17,3 +17,9 @@ https://myntra-clone-rp.vercel.app/
 
 ## GitHub Repository
 https://github.com/Rupsha-Paul/Myntra-Clone
+
+## Preview
+
+![Myntra Clone Preview](/Preview.png)
+
+
